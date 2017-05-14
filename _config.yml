@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maxim.chernyatevich.me"
 github_username:  vechnoe
 disqus:
-  shortname: maxim.chernyatevich.me
+  shortname: maxim-chernyatevich-me
 
 # Build settings
 markdown: kramdown
