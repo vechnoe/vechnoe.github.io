@@ -16,12 +16,10 @@
 title: Блог Максима Чернятевича
 email: maxim.chernyatevich@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cсылка на оригинал приветствуется.
+  Копирайт © 2017 Максим Чернятевич
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maxim.chernyatevich.me"
-twitter_username: jekyllrb
 github_username:  vechnoe
 
 # Build settings

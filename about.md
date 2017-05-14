@@ -10,9 +10,9 @@ permalink: /about/
 более 70000 км автостопом.
 
 В свободное время занимаюсь развитием:
-Древлеправославного календаря: http://calendar.drevle.com
-Подготовкой текста Острожской библии в Unicode https://github.com/Drevle/ostrog_bible
-(этот текст будет включен в корпус НКРЯ http://www.ruscorpora.ru/)
+* Древлеправославного календаря: [http://calendar.drevle.com](http://calendar.drevle.com)
+* Подготовкой текста Острожской библии в Unicode 
+   [https://github.com/Drevle/ostrog_bible](https://github.com/Drevle/ostrog_bible) (этот текст будет включен в корпус НКРЯ [http://www.ruscorpora.ru](http://www.ruscorpora.ru) )
 
 
 ## Карьера
@@ -24,10 +24,10 @@ permalink: /about/
 event-ориентированных приложений, REST.
 
 ### Использую
-**Бэкенд:** Python, Django, Pyramid, Tornado, Nameko, Asyncio, Aiohttp
-RabbitMQ, Celery, Redis, Postgres, Cassandra, Elasticsearch
-**Деплой:** Docker, Jenkins, make, shell, Ansible, сборка в deb, Sentry, Amazon S3
-**Фронтенд:** Javascript, Angular
+* **Бэкенд:** Python, Django, Pyramid, Tornado, Nameko, Asyncio, Aiohttp
+    RabbitMQ, Celery, Redis, Postgres, Cassandra, Elasticsearch
+* **Деплой:** Docker, Jenkins, make, shell, Ansible, сборка в deb, Sentry, Amazon S3
+* **Фронтенд:** Javascript, Angular
 
 ### Управление проектами
 Разработка концепции проекта, подготовка и реализация плана работ. 
