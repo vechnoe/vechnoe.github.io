@@ -25,6 +25,8 @@ github_username:  vechnoe
 disqus:
   shortname: maxim-chernyatevich-me
 
+google_analytics: UA-99113062-1
+
 # Build settings
 markdown: kramdown
 theme: minima
